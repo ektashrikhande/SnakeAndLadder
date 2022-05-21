@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d9253e-83b2-48c0-a17a-9bed022b923c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SnakeAndLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeAndLadder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
